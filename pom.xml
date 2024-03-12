@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.psl.springboot</groupId>
-	<artifactId>SpringBoot-Docker</artifactId>
+	<artifactId>springboot-docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot-Docker</name>
 	<description>Dockerize Spring Boot Application </description>
