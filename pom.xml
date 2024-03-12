@@ -35,7 +35,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-		</plugins><finalName>SpringBootTest01</finalName>
+		</plugins>
+
+		<finalName>springboottest01</finalName>
 
 
 	</build>
